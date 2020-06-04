@@ -1,0 +1,2 @@
+# leetcode
+codes from leetcode 
